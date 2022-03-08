@@ -1,4 +1,3 @@
-
 > Contest IWLS 2022 ☕️👋
 
 ### 🏠 [Homepage](https://github.com/pntmatheus/IWLS2022#readme)
