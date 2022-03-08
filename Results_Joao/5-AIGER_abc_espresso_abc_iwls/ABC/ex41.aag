@@ -1,0 +1,46 @@
+aag 30 5 0 3 25
+2
+4
+6
+8
+10
+35
+51
+60
+12 10 8
+14 11 9
+16 15 13
+18 4 2
+20 5 3
+22 21 19
+24 23 6
+26 22 7
+28 27 25
+30 29 17
+32 28 16
+34 33 31
+36 12 6
+38 36 4
+40 37 5
+42 13 7
+44 43 15
+46 44 2
+48 46 41
+50 49 39
+52 14 7
+54 53 21
+56 55 19
+58 56 45
+60 59 50
+i0 a
+i1 b
+i2 c
+i3 d
+i4 e
+o0 F0
+o1 F1
+o2 F2
+c
+ex
+This file was written by ABC on Fri Feb 18 00:40:23 2022
+For information about AIGER format, refer to http://fmv.jku.at/aiger
