@@ -1,0 +1,24 @@
+Commands used:
+
+	0_abc-bench_tt
+		original benchmark
+
+	[ABC] 1_abc-ABC_pla_tt
+		abc> read_truth -xf bench/file.truth; collapse; sop; w 1_abc-ABC_pla_tt/file.pla
+
+	[ABC] 2_abc-ABC_aig_pla
+		abc> read_truth -xf bench/file.truth; collapse; sop; strash; dc2; write 2_abc-ABC_aig_pla/file.aig
+
+	[ABC] 3-Teste_pla_aig
+		abc> read_pla bench/6_esp-Espresso_pla_abc/file.pla; strash; dc2; write_aiger bench/3-Teste_pla_aig/file.aig
+
+	[ESPRESSO] 6_esp-Espresso_pla_abc
+		./espresso bench/file.pla > bench/output_file.pla
+
+	[ABC] 7_abc-ABC_aig_pla_Espresso
+		abc> read_pla bench/6_esp-Espresso_pla_abc/file.pla; strash; write_aiger bench/7_abc-ABC_aig_pla_Espresso/file.aig
+
+	[ABC] 8_abc-ABC_aig_dc2_pla_Espresso
+		abc> read_pla bench/6_esp-Espresso_pla_abc/file.pla; strash; dc2; write_aiger bench/8_abc-ABC_aig_dc2_pla_Espresso/file.aig
+
+
