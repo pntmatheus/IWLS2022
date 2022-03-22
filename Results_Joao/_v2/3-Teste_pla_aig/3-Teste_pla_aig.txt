@@ -1,0 +1,300 @@
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex00.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex00.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex00:[0m i/o =    6/    1  lat =    0  and =     34  lev =  9
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex01.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex01.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex01:[0m i/o =    6/    1  lat =    0  and =     39  lev =  9
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex02.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex02.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex02:[0m i/o =    8/    1  lat =    0  and =    121  lev = 14
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex03.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex03.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex03:[0m i/o =    8/    1  lat =    0  and =     42  lev = 10
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex04.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex04.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex04:[0m i/o =   10/    1  lat =    0  and =    495  lev = 18
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex05.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex05.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex05:[0m i/o =   10/    1  lat =    0  and =    200  lev = 15
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex06.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex06.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex06:[0m i/o =   12/    1  lat =    0  and =   1767  lev = 22
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex07.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex07.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex07:[0m i/o =   12/    1  lat =    0  and =   1018  lev = 21
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex08.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex08.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex08:[0m i/o =    8/    8  lat =    0  and =    991  lev = 16
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex09.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex09.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex09:[0m i/o =    8/    8  lat =    0  and =    997  lev = 15
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex10.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex10.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex10:[0m i/o =    5/    1  lat =    0  and =     12  lev =  7
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex11.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex11.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex11:[0m i/o =    7/    1  lat =    0  and =     24  lev = 10
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex12.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex12.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex12:[0m i/o =    9/    1  lat =    0  and =     40  lev = 15
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex13.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex13.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex13:[0m i/o =   11/    1  lat =    0  and =     60  lev = 18
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex14.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex14.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex14:[0m i/o =   13/    1  lat =    0  and =     84  lev = 22
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex15.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex15.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex15:[0m i/o =   15/    1  lat =    0  and =    112  lev = 26
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex16.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex16.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex16:[0m i/o =    5/    5  lat =    0  and =     20  lev =  7
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex17.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex17.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex17:[0m i/o =    6/    6  lat =    0  and =     30  lev =  9
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex18.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex18.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex18:[0m i/o =    7/    7  lat =    0  and =     42  lev = 11
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex19.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex19.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex19:[0m i/o =    8/    8  lat =    0  and =     56  lev = 13
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex20.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex20.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex20:[0m i/o =    9/    9  lat =    0  and =     72  lev = 15
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex21.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex21.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex21:[0m i/o =   10/   10  lat =    0  and =     90  lev = 17
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex22.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex22.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex22:[0m i/o =   11/   11  lat =    0  and =    110  lev = 19
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex23.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex23.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex23:[0m i/o =   12/   12  lat =    0  and =    136  lev = 21
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex24.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex24.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex24:[0m i/o =   13/   13  lat =    0  and =    156  lev = 23
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex25.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex25.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex25:[0m i/o =   14/   14  lat =    0  and =    190  lev = 25
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex26.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex26.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex26:[0m i/o =   15/   15  lat =    0  and =    220  lev = 27
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex27.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex27.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex27:[0m i/o =   16/   16  lat =    0  and =    250  lev = 28
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex28.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex28.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex28:[0m i/o =    7/   10  lat =    0  and =     97  lev =  8
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex29.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex29.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex29:[0m i/o =    9/    1  lat =    0  and =    215  lev = 13
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex30.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex30.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex30:[0m i/o =   14/    8  lat =    0  and =   1038  lev = 19
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex31.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex31.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex31:[0m i/o =    9/   18  lat =    0  and =   2497  lev = 16
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex32.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex32.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex32:[0m i/o =   15/    9  lat =    0  and =     67  lev =  8
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex33.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex33.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex33:[0m i/o =    5/   28  lat =    0  and =    155  lev =  7
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex34.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex34.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex34:[0m i/o =    9/    5  lat =    0  and =    108  lev =  9
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex35.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex35.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex35:[0m i/o =    7/    2  lat =    0  and =     16  lev =  5
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex36.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex36.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex36:[0m i/o =   10/   10  lat =    0  and =   2457  lev = 19
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex37.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex37.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex37:[0m i/o =    8/   63  lat =    0  and =    655  lev = 12
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex38.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex38.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex38:[0m i/o =    8/    7  lat =    0  and =     58  lev =  8
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex39.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex39.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex39:[0m i/o =   14/   14  lat =    0  and =   2219  lev = 21
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex40.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex40.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex40:[0m i/o =   16/   40  lat =    0  and =    624  lev = 16
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex41.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex41.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex41:[0m i/o =    5/    3  lat =    0  and =     28  lev =  6
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex42.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex42.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex42:[0m i/o =    7/    3  lat =    0  and =     86  lev = 11
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex43.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex43.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex43:[0m i/o =    8/    4  lat =    0  and =    164  lev = 14
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex44.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex44.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex44:[0m i/o =   10/    4  lat =    0  and =    136  lev = 10
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex45.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex45.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex45:[0m i/o =   16/   46  lat =    0  and =    743  lev = 17
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex46.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex46.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex46:[0m i/o =    5/    8  lat =    0  and =     42  lev =  7
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex47.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex47.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex47:[0m i/o =   16/    1  lat =    0  and =     55  lev = 13
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex48.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex48.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex48:[0m i/o =   14/   14  lat =    0  and =   1557  lev = 23
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex49.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex49.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex49:[0m i/o =    7/   10  lat =    0  and =     97  lev = 10
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex50.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex50.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex50:[0m i/o =    8/    2  lat =    0  and =     19  lev =  7
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex51.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex51.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex51:[0m i/o =    8/    2  lat =    0  and =     70  lev =  9
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex52.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex52.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex52:[0m i/o =    8/    2  lat =    0  and =     26  lev =  8
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex53.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex53.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex53:[0m i/o =    8/    2  lat =    0  and =     68  lev = 13
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex54.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex54.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex54:[0m i/o =    8/    2  lat =    0  and =     15  lev =  6
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex55.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex55.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex55:[0m i/o =    8/    7  lat =    0  and =    267  lev = 13
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex56.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex56.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex56:[0m i/o =   12/    3  lat =    0  and =     38  lev =  9
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex57.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex57.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex57:[0m i/o =   12/    3  lat =    0  and =   1032  lev = 19
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex58.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex58.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex58:[0m i/o =   12/    3  lat =    0  and =    173  lev = 15
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex59.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex59.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex59:[0m i/o =   12/    3  lat =    0  and =    691  lev = 19
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex60.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex60.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex60:[0m i/o =   12/    3  lat =    0  and =    143  lev = 13
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex61.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex61.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex61:[0m i/o =   12/   11  lat =    0  and =   4131  lev = 22
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex62.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex62.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex62:[0m i/o =   16/    4  lat =    0  and =     43  lev = 13
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex63.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex63.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex63:[0m i/o =   16/    4  lat =    0  and =  12449  lev = 30
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex64.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex64.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex64:[0m i/o =   16/    4  lat =    0  and =   1031  lev = 25
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex65.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex65.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex65:[0m i/o =   16/    4  lat =    0  and =   6643  lev = 26
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex66.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex66.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex66:[0m i/o =   16/    4  lat =    0  and =    793  lev = 20
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex67.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex67.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex67:[0m i/o =   10/   77  lat =    0  and =   9425  lev = 20
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex68.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex68.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex68:[0m i/o =   12/    3  lat =    0  and =    639  lev = 18
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex69.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex69.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex69:[0m i/o =   12/    3  lat =    0  and =    735  lev = 21
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex70.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex70.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex70:[0m i/o =   12/    3  lat =    0  and =   1329  lev = 20
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex71.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex71.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex71:[0m i/o =   12/    3  lat =    0  and =    957  lev = 18
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex72.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex72.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex72:[0m i/o =   12/    3  lat =    0  and =   2320  lev = 24
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex73.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex73.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex73:[0m i/o =   12/    3  lat =    0  and =    736  lev = 18
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex74.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex74.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex74:[0m i/o =   12/    3  lat =    0  and =   2233  lev = 22
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex75.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex75.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex75:[0m i/o =   12/    3  lat =    0  and =   2053  lev = 21
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex76.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex76.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex76:[0m i/o =   12/    3  lat =    0  and =    611  lev = 18
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex77.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex77.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex77:[0m i/o =   12/    3  lat =    0  and =    764  lev = 20
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex78.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex78.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex78:[0m i/o =   12/    3  lat =    0  and =    868  lev = 18
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex79.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex79.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex79:[0m i/o =   12/    3  lat =    0  and =    907  lev = 21
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex80.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex80.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex80:[0m i/o =   12/    3  lat =    0  and =   2002  lev = 21
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex81.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex81.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex81:[0m i/o =   12/    3  lat =    0  and =   1028  lev = 20
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex82.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex82.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex82:[0m i/o =   12/    3  lat =    0  and =   2237  lev = 23
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex83.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex83.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex83:[0m i/o =   12/    3  lat =    0  and =   2304  lev = 22
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex84.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex84.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex84:[0m i/o =   12/    3  lat =    0  and =    210  lev = 13
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex85.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex85.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex85:[0m i/o =   12/    3  lat =    0  and =    411  lev = 19
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex86.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex86.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex86:[0m i/o =   12/    3  lat =    0  and =    321  lev = 16
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex87.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex87.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex87:[0m i/o =   12/    3  lat =    0  and =    781  lev = 19
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex88.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex88.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex88:[0m i/o =   12/    3  lat =    0  and =    710  lev = 19
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex89.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex89.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex89:[0m i/o =   12/    3  lat =    0  and =    858  lev = 19
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex90.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex90.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex90:[0m i/o =   12/    3  lat =    0  and =   1651  lev = 21
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex91.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex91.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex91:[0m i/o =   12/    3  lat =    0  and =    642  lev = 19
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex92.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex92.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex92:[0m i/o =   10/    3  lat =    0  and =     41  lev = 11
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex93.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex93.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex93:[0m i/o =   12/    3  lat =    0  and =     63  lev = 12
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex94.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex94.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex94:[0m i/o =   11/    3  lat =    0  and =     76  lev = 13
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex95.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex95.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex95:[0m i/o =   11/    3  lat =    0  and =    120  lev = 12
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex96.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex96.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex96:[0m i/o =   12/    3  lat =    0  and =    190  lev = 14
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex97.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex97.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex97:[0m i/o =   12/    3  lat =    0  and =    138  lev = 13
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex98.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex98.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex98:[0m i/o =   12/    3  lat =    0  and =    450  lev = 18
+ABC command line: "read_pla ../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex99.pla; strash; dc2; write_aiger ../_files_IWLS/IWLS_Benchmark/Espresso_v2/3-Teste_pla_aig/ex99.aig;print_stats".
+
+[1;37m../_files_IWLS/IWLS_Benchmark/Espresso_v2/6_esp-Espresso_pla_abc/ex99:[0m i/o =   12/    3  lat =    0  and =    166  lev = 13
