@@ -1,0 +1,300 @@
+PLA to AIG -> + ex00.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex00.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex00.aig".
+
+PLA to AIG -> + ex01.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex01.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex01.aig".
+
+PLA to AIG -> + ex02.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex02.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex02.aig".
+
+PLA to AIG -> + ex03.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex03.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex03.aig".
+
+PLA to AIG -> + ex04.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex04.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex04.aig".
+
+PLA to AIG -> + ex05.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex05.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex05.aig".
+
+PLA to AIG -> + ex06.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex06.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex06.aig".
+
+PLA to AIG -> + ex07.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex07.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex07.aig".
+
+PLA to AIG -> + ex08.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex08.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex08.aig".
+
+PLA to AIG -> + ex09.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex09.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex09.aig".
+
+PLA to AIG -> + ex10.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex10.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex10.aig".
+
+PLA to AIG -> + ex11.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex11.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex11.aig".
+
+PLA to AIG -> + ex12.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex12.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex12.aig".
+
+PLA to AIG -> + ex13.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex13.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex13.aig".
+
+PLA to AIG -> + ex14.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex14.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex14.aig".
+
+PLA to AIG -> + ex15.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex15.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex15.aig".
+
+PLA to AIG -> + ex16.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex16.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex16.aig".
+
+PLA to AIG -> + ex17.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex17.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex17.aig".
+
+PLA to AIG -> + ex18.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex18.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex18.aig".
+
+PLA to AIG -> + ex19.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex19.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex19.aig".
+
+PLA to AIG -> + ex20.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex20.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex20.aig".
+
+PLA to AIG -> + ex21.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex21.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex21.aig".
+
+PLA to AIG -> + ex22.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex22.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex22.aig".
+
+PLA to AIG -> + ex23.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex23.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex23.aig".
+
+PLA to AIG -> + ex24.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex24.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex24.aig".
+
+PLA to AIG -> + ex25.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex25.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex25.aig".
+
+PLA to AIG -> + ex26.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex26.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex26.aig".
+
+PLA to AIG -> + ex27.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex27.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex27.aig".
+
+PLA to AIG -> + ex28.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex28.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex28.aig".
+
+PLA to AIG -> + ex29.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex29.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex29.aig".
+
+PLA to AIG -> + ex30.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex30.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex30.aig".
+
+PLA to AIG -> + ex31.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex31.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex31.aig".
+
+PLA to AIG -> + ex32.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex32.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex32.aig".
+
+PLA to AIG -> + ex33.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex33.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex33.aig".
+
+PLA to AIG -> + ex34.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex34.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex34.aig".
+
+PLA to AIG -> + ex35.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex35.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex35.aig".
+
+PLA to AIG -> + ex36.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex36.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex36.aig".
+
+PLA to AIG -> + ex37.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex37.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex37.aig".
+
+PLA to AIG -> + ex38.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex38.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex38.aig".
+
+PLA to AIG -> + ex39.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex39.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex39.aig".
+
+PLA to AIG -> + ex40.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex40.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex40.aig".
+
+PLA to AIG -> + ex41.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex41.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex41.aig".
+
+PLA to AIG -> + ex42.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex42.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex42.aig".
+
+PLA to AIG -> + ex43.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex43.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex43.aig".
+
+PLA to AIG -> + ex44.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex44.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex44.aig".
+
+PLA to AIG -> + ex45.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex45.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex45.aig".
+
+PLA to AIG -> + ex46.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex46.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex46.aig".
+
+PLA to AIG -> + ex47.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex47.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex47.aig".
+
+PLA to AIG -> + ex48.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex48.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex48.aig".
+
+PLA to AIG -> + ex49.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex49.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex49.aig".
+
+PLA to AIG -> + ex50.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex50.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex50.aig".
+
+PLA to AIG -> + ex51.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex51.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex51.aig".
+
+PLA to AIG -> + ex52.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex52.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex52.aig".
+
+PLA to AIG -> + ex53.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex53.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex53.aig".
+
+PLA to AIG -> + ex54.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex54.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex54.aig".
+
+PLA to AIG -> + ex55.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex55.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex55.aig".
+
+PLA to AIG -> + ex56.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex56.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex56.aig".
+
+PLA to AIG -> + ex57.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex57.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex57.aig".
+
+PLA to AIG -> + ex58.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex58.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex58.aig".
+
+PLA to AIG -> + ex59.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex59.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex59.aig".
+
+PLA to AIG -> + ex60.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex60.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex60.aig".
+
+PLA to AIG -> + ex61.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex61.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex61.aig".
+
+PLA to AIG -> + ex62.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex62.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex62.aig".
+
+PLA to AIG -> + ex63.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex63.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex63.aig".
+
+PLA to AIG -> + ex64.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex64.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex64.aig".
+
+PLA to AIG -> + ex65.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex65.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex65.aig".
+
+PLA to AIG -> + ex66.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex66.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex66.aig".
+
+PLA to AIG -> + ex67.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex67.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex67.aig".
+
+PLA to AIG -> + ex68.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex68.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex68.aig".
+
+PLA to AIG -> + ex69.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex69.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex69.aig".
+
+PLA to AIG -> + ex70.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex70.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex70.aig".
+
+PLA to AIG -> + ex71.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex71.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex71.aig".
+
+PLA to AIG -> + ex72.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex72.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex72.aig".
+
+PLA to AIG -> + ex73.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex73.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex73.aig".
+
+PLA to AIG -> + ex74.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex74.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex74.aig".
+
+PLA to AIG -> + ex75.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex75.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex75.aig".
+
+PLA to AIG -> + ex76.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex76.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex76.aig".
+
+PLA to AIG -> + ex77.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex77.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex77.aig".
+
+PLA to AIG -> + ex78.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex78.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex78.aig".
+
+PLA to AIG -> + ex79.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex79.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex79.aig".
+
+PLA to AIG -> + ex80.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex80.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex80.aig".
+
+PLA to AIG -> + ex81.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex81.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex81.aig".
+
+PLA to AIG -> + ex82.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex82.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex82.aig".
+
+PLA to AIG -> + ex83.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex83.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex83.aig".
+
+PLA to AIG -> + ex84.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex84.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex84.aig".
+
+PLA to AIG -> + ex85.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex85.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex85.aig".
+
+PLA to AIG -> + ex86.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex86.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex86.aig".
+
+PLA to AIG -> + ex87.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex87.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex87.aig".
+
+PLA to AIG -> + ex88.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex88.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex88.aig".
+
+PLA to AIG -> + ex89.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex89.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex89.aig".
+
+PLA to AIG -> + ex90.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex90.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex90.aig".
+
+PLA to AIG -> + ex91.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex91.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex91.aig".
+
+PLA to AIG -> + ex92.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex92.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex92.aig".
+
+PLA to AIG -> + ex93.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex93.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex93.aig".
+
+PLA to AIG -> + ex94.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex94.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex94.aig".
+
+PLA to AIG -> + ex95.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex95.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex95.aig".
+
+PLA to AIG -> + ex96.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex96.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex96.aig".
+
+PLA to AIG -> + ex97.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex97.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex97.aig".
+
+PLA to AIG -> + ex98.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex98.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex98.aig".
+
+PLA to AIG -> + ex99.pla
+ABC command line: "rp ../_files_IWLS/IWLS_Benchmark/Espresso_v3/1_abc-ABC_pla_tt/ex99.pla;clp;sop;st;dc2;w ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex99.aig".
+
