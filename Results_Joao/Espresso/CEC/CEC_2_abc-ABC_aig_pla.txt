@@ -1,0 +1,400 @@
+\n check equivalence (ABC) --> ex00.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex00.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex00.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex01.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex01.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex01.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex02.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex02.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex02.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex03.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex03.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex03.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex04.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex04.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex04.aig".
+
+Networks are equivalent.  Time =     0.05 sec
+\n check equivalence (ABC) --> ex05.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex05.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex05.aig".
+
+Networks are equivalent.  Time =     0.03 sec
+\n check equivalence (ABC) --> ex06.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex06.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex06.aig".
+
+Networks are equivalent.  Time =     0.59 sec
+\n check equivalence (ABC) --> ex07.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex07.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex07.aig".
+
+Networks are equivalent.  Time =     0.26 sec
+\n check equivalence (ABC) --> ex08.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex08.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex08.aig".
+
+Networks are equivalent.  Time =     0.09 sec
+\n check equivalence (ABC) --> ex09.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex09.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex09.aig".
+
+Networks are equivalent.  Time =     0.07 sec
+\n check equivalence (ABC) --> ex10.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex10.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex10.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex11.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex11.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex11.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex12.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex12.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex12.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex13.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex13.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex13.aig".
+
+Networks are equivalent.  Time =     0.03 sec
+\n check equivalence (ABC) --> ex14.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex14.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex14.aig".
+
+Networks are equivalent.  Time =     0.11 sec
+\n check equivalence (ABC) --> ex15.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex15.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex15.aig".
+
+Networks are equivalent.  Time =     1.10 sec
+\n check equivalence (ABC) --> ex16.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex16.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex16.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex17.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex17.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex17.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex18.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex18.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex18.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex19.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex19.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex19.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex20.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex20.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex20.aig".
+
+Networks are equivalent.  Time =     0.03 sec
+\n check equivalence (ABC) --> ex21.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex21.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex21.aig".
+
+Networks are equivalent.  Time =     0.06 sec
+\n check equivalence (ABC) --> ex22.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex22.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex22.aig".
+
+Networks are equivalent.  Time =     0.16 sec
+\n check equivalence (ABC) --> ex23.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex23.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex23.aig".
+
+Networks are equivalent.  Time =     1.16 sec
+\n check equivalence (ABC) --> ex24.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex24.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex24.aig".
+
+Networks are equivalent.  Time =     3.09 sec
+\n check equivalence (ABC) --> ex25.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex25.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex25.aig".
+
+Networks are equivalent.  Time =     4.75 sec
+\n check equivalence (ABC) --> ex26.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex26.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex26.aig".
+
+Networks are equivalent.  Time =    12.50 sec
+\n check equivalence (ABC) --> ex27.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex27.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex27.aig".
+
+Networks are equivalent.  Time =    17.84 sec
+\n check equivalence (ABC) --> ex28.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex28.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex28.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex29.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex29.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex29.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex30.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex30.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex30.aig".
+
+Networks are equivalent.  Time =     2.67 sec
+\n check equivalence (ABC) --> ex31.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex31.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex31.aig".
+
+Networks are equivalent.  Time =     0.21 sec
+\n check equivalence (ABC) --> ex32.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex32.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex32.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex33.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex33.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex33.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex34.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex34.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex34.aig".
+
+Networks are equivalent.  Time =     0.03 sec
+\n check equivalence (ABC) --> ex35.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex35.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex35.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex36.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex36.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex36.aig".
+
+Networks are equivalent.  Time =     0.38 sec
+\n check equivalence (ABC) --> ex37.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex37.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex37.aig".
+
+Networks are equivalent.  Time =     0.03 sec
+\n check equivalence (ABC) --> ex38.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex38.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex38.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex39.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex39.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex39.aig".
+
+Networks are equivalent.  Time =     0.53 sec
+\n check equivalence (ABC) --> ex40.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex40.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex40.aig".
+
+Networks are equivalent.  Time =     0.14 sec
+\n check equivalence (ABC) --> ex41.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex41.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex41.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex42.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex42.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex42.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex43.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex43.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex43.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex44.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex44.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex44.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex45.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex45.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex45.aig".
+
+Networks are equivalent.  Time =     0.19 sec
+\n check equivalence (ABC) --> ex46.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex46.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex46.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex47.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex47.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex47.aig".
+
+Networks are equivalent.  Time =     0.03 sec
+\n check equivalence (ABC) --> ex48.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex48.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex48.aig".
+
+Networks are equivalent.  Time =     0.38 sec
+\n check equivalence (ABC) --> ex49.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex49.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex49.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex50.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex50.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex50.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex51.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex51.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex51.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex52.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex52.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex52.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex53.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex53.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex53.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex54.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex54.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex54.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex55.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex55.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex55.aig".
+
+Networks are equivalent.  Time =     0.03 sec
+\n check equivalence (ABC) --> ex56.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex56.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex56.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex57.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex57.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex57.aig".
+
+Networks are equivalent.  Time =     0.16 sec
+\n check equivalence (ABC) --> ex58.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex58.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex58.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex59.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex59.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex59.aig".
+
+Networks are equivalent.  Time =     0.15 sec
+\n check equivalence (ABC) --> ex60.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex60.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex60.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex61.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex61.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex61.aig".
+
+Networks are equivalent.  Time =     6.02 sec
+\n check equivalence (ABC) --> ex62.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex62.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex62.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex63.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex63.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex63.aig".
+
+Networks are equivalent.  Time =   104.39 sec
+\n check equivalence (ABC) --> ex64.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex64.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex64.aig".
+
+Networks are equivalent.  Time =     0.17 sec
+\n check equivalence (ABC) --> ex65.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex65.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex65.aig".
+
+Networks are equivalent.  Time =    41.70 sec
+\n check equivalence (ABC) --> ex66.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex66.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex66.aig".
+
+Networks are equivalent.  Time =     0.06 sec
+\n check equivalence (ABC) --> ex67.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex67.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex67.aig".
+
+Networks are equivalent.  Time =     1.13 sec
+\n check equivalence (ABC) --> ex68.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex68.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex68.aig".
+
+Networks are equivalent.  Time =     0.06 sec
+\n check equivalence (ABC) --> ex69.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex69.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex69.aig".
+
+Networks are equivalent.  Time =     0.08 sec
+\n check equivalence (ABC) --> ex70.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex70.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex70.aig".
+
+Networks are equivalent.  Time =     0.29 sec
+\n check equivalence (ABC) --> ex71.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex71.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex71.aig".
+
+Networks are equivalent.  Time =     0.11 sec
+\n check equivalence (ABC) --> ex72.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex72.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex72.aig".
+
+Networks are equivalent.  Time =     0.49 sec
+\n check equivalence (ABC) --> ex73.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex73.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex73.aig".
+
+Networks are equivalent.  Time =     0.10 sec
+\n check equivalence (ABC) --> ex74.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex74.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex74.aig".
+
+Networks are equivalent.  Time =     0.68 sec
+\n check equivalence (ABC) --> ex75.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex75.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex75.aig".
+
+Networks are equivalent.  Time =     0.54 sec
+\n check equivalence (ABC) --> ex76.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex76.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex76.aig".
+
+Networks are equivalent.  Time =     0.06 sec
+\n check equivalence (ABC) --> ex77.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex77.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex77.aig".
+
+Networks are equivalent.  Time =     0.08 sec
+\n check equivalence (ABC) --> ex78.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex78.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex78.aig".
+
+Networks are equivalent.  Time =     0.12 sec
+\n check equivalence (ABC) --> ex79.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex79.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex79.aig".
+
+Networks are equivalent.  Time =     0.10 sec
+\n check equivalence (ABC) --> ex80.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex80.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex80.aig".
+
+Networks are equivalent.  Time =     0.45 sec
+\n check equivalence (ABC) --> ex81.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex81.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex81.aig".
+
+Networks are equivalent.  Time =     0.15 sec
+\n check equivalence (ABC) --> ex82.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex82.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex82.aig".
+
+Networks are equivalent.  Time =     0.61 sec
+\n check equivalence (ABC) --> ex83.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex83.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex83.aig".
+
+Networks are equivalent.  Time =     0.61 sec
+\n check equivalence (ABC) --> ex84.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex84.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex84.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex85.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex85.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex85.aig".
+
+Networks are equivalent.  Time =     0.04 sec
+\n check equivalence (ABC) --> ex86.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex86.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex86.aig".
+
+Networks are equivalent.  Time =     0.03 sec
+\n check equivalence (ABC) --> ex87.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex87.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex87.aig".
+
+Networks are equivalent.  Time =     0.07 sec
+\n check equivalence (ABC) --> ex88.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex88.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex88.aig".
+
+Networks are equivalent.  Time =     0.09 sec
+\n check equivalence (ABC) --> ex89.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex89.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex89.aig".
+
+Networks are equivalent.  Time =     0.14 sec
+\n check equivalence (ABC) --> ex90.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex90.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex90.aig".
+
+Networks are equivalent.  Time =     0.37 sec
+\n check equivalence (ABC) --> ex91.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex91.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex91.aig".
+
+Networks are equivalent.  Time =     0.07 sec
+\n check equivalence (ABC) --> ex92.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex92.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex92.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex93.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex93.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex93.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex94.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex94.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex94.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex95.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex95.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex95.aig".
+
+Networks are equivalent.  Time =     0.01 sec
+\n check equivalence (ABC) --> ex96.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex96.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex96.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex97.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex97.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex97.aig".
+
+Networks are equivalent.  Time =     0.02 sec
+\n check equivalence (ABC) --> ex98.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex98.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex98.aig".
+
+Networks are equivalent.  Time =     0.04 sec
+\n check equivalence (ABC) --> ex99.pla  --> tt 2_abc (aig+collapse;sop;strash;dc2)
+ABC command line: "read_truth -xf ../_files_IWLS/IWLS_Benchmark/Espresso_v3/0_abc-bench_tt/ex99.truth;cec ../_files_IWLS/IWLS_Benchmark/Espresso_v3/2_abc-ABC_aig_pla/ex99.aig".
+
+Networks are equivalent.  Time =     0.02 sec
