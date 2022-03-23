@@ -1,0 +1,23 @@
+
+Scripts run Mar/23
+
+ABC:
+	truth -> pla
+	results in folder> 1_abc-ABC_pla_tt
+	.abc -c "rt -xf ../bench/0_abc-bench_tt/ex$x$y.truth; 	clp; 				w ../bench/1_abc-ABC_pla_tt/ex$x$y.pla"
+
+ABC:
+	pla (TRUTH) -> aig
+	results in folder> 2_abc-ABC_aig_pla
+	.abc -c "rp ../bench/1_abc-ABC_pla_tt/ex$x$y.pla; 		clp;sop;st;dc2;		w ../bench/2_abc-ABC_aig_pla/ex$x$y.aig"
+
+ESPRESSO:
+	(pla_ABC) -> pla
+	results in folder> 6_esp-Espresso_pla_abc
+	./espresso-master/espresso ../Espresso_v3/1_abc-ABC_pla_tt/ex$x$y.pla > ../Espresso_v3/6_esp-Espresso_pla_abc/ex$x$y.pla
+
+ABC:
+	pla (ABC) -> aig
+	results in folder> 7_abc-ABC_aig_pla_Espresso
+	.abc -c "rp ../bench/6_esp-Espresso_pla_abc/ex$x$y.pla; clp;sop;st;dc2;		w ../bench/7_abc-ABC_aig_pla_Espresso/ex$x$y.aig"
+
