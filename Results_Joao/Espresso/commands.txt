@@ -21,3 +21,7 @@ ABC:
 	results in folder> 7_abc-ABC_aig_pla_Espresso
 	.abc -c "rp ../bench/6_esp-Espresso_pla_abc/ex$x$y.pla; clp;sop;st;dc2;		w ../bench/7_abc-ABC_aig_pla_Espresso/ex$x$y.aig"
 
+ABC:
+	pla (ABC) -> aig (sem clp;sop)
+	results in folder> 8_abc-ABC_aig_pla_Espresso_sem_clp_sop
+	.abc -c "rp ../bench/8_abc-ABC_aig_pla_Espresso_sem_clp_sop/ex$x$y.pla; st;dc2;		w ../bench/8_abc-ABC_aig_pla_Espresso_sem_clp_sop/ex$x$y.aig"
